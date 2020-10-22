@@ -4,3 +4,27 @@
   "title": "Atlético Madrid",
   "body": "Equipo Español"
 }
+{
+  "userId": 2,
+  "id": 2,
+  "title": "Chelsea",
+  "body": "Equipo Inglés"
+}
+{
+  "userId": 3,
+  "id": 3,
+  "title": "PSG",
+  "body": "Equipo Francés"
+}
+{
+  "userId": 4,
+  "id": 4,
+  "title": "Borussia Dortmund",
+  "body": "Equipo Alemán"
+}
+{
+  "userId": 5,
+  "id": 5,
+  "title": "Napoli",
+  "body": "Equipo Italiano"
+}
