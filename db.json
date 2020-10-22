@@ -1,32 +1,30 @@
-[
-  {
-    "userId": 1,
+{
+    "equipoId": 1,
     "id": 1,
-    "title": "Atlético Madrid",
-    "body": "Equipo Español"
+    "equipo": "Atlético Madrid",
+    "descipcion": "Equipo Español"
   }
   {
-    "userId": 2,
+    "equipoId": 2,
     "id": 2,
-    "title": "Chelsea",
-    "body": "Equipo Inglés"
+    "equipo": "Chelsea",
+    "descripcion": "Equipo Inglés"
   }
   {
-    "userId": 3,
+    "equippId": 3,
     "id": 3,
-    "title": "PSG",
-    "body": "Equipo Francés"
+    "equipo": "PSG",
+    "descipcion": "Equipo Francés"
   }
   {
-    "userId": 4,
+    "equipoId": 4,
     "id": 4,
-    "title": "Borussia Dortmund",
-    "body": "Equipo Alemán"
+    "equipo": "Borussia Dortmund",
+    "descripcion": "Equipo Alemán"
   }
   {
-    "userId": 5,
+    "equipoId": 5,
     "id": 5,
-    "title": "Napoli",
-    "body": "Equipo Italiano"
+    "equipo": "Napoli",
+    "descipcion": "Equipo Italiano"
   }
-]
